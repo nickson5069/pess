@@ -1,4 +1,5 @@
-<?php
+
+<?php //com
 	if(!isset($_POST['submit']) && !isset($_POST['btnDispatch']))
 		header("Location: logcall.php");
 
